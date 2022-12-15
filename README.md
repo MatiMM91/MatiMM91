@@ -32,4 +32,4 @@ My name is Matías, I'm from Chile and I'am a Software developer
 
 ## You can find me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiMM91&langs_count=8)](https://github.com/MatiMM91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiMM91&langs_count=8&theme=radical)](https://github.com/MatiMM91/github-readme-stats)
