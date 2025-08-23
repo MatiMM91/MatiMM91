@@ -14,7 +14,7 @@ const skills = {
   backend:    [NODE JS, PHP, PYTHON],
   frameworks: [NEXT.JS, LARAVEL],
   database:   [MYSQL, MONGO DB, ORACLE],
-  tools:      [GIT, GITHUB, VISUAL STUDIO CODE, FIGMA],
+  tools:      [GIT, GITHUB, VISUAL STUDIO CODE, GOOGLE CLOUD, FIGMA],
 }
 ```
 
