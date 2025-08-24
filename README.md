@@ -26,4 +26,10 @@ const skills = {
   tools: ["Git", "GitHub", "Visual Studio Code"]
 }
 
+📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/matias-manriquez
+
+📧 Email: manriquezmiranda@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiMM91&langs_count=8&theme=dark)](https://github.com/MatiMM91/github-readme-stats)
