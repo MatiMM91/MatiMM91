@@ -26,7 +26,9 @@ const skills = {
   tools: ["Git", "GitHub", "Visual Studio Code"]
 }
 
-📫 Contact
+---
+
+## 📫 Contact
 
 💼 LinkedIn: https://www.linkedin.com/in/matias-manriquez
 
