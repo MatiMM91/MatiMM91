@@ -17,10 +17,6 @@ I enjoy building **web applications** and exploring **data analytics** to create
 
 ---
 
-## 📫 Contact
-
----
-
 ## 🛠️ Tech Stack  
 
 ```js
@@ -31,7 +27,7 @@ const skills = {
   databases: ["MySQL", "MongoDB", "Oracle"],
   tools: ["Git", "GitHub", "Visual Studio Code"]
 }
-
+```
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiMM91&langs_count=8&theme=dark)](https://github.com/MatiMM91/github-readme-stats)
