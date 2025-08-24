@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Matías  
+# 👋 Hi, I'm Matías
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-manriquez) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manriquezmiranda@gmail.com)
 
 ### 🌍 Software Developer | Web & Data Enthusiast  
 
@@ -17,17 +19,9 @@ I enjoy building **web applications** and exploring **data analytics** to create
 
 ## 📫 Contact
 
-## 📫 Contact  
-
-## 📫 Contact  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-manriquez)
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manriquezmiranda@gmail.com))
-
-💼 LinkedIn: https://www.linkedin.com/in/matias-manriquez
-
-📧 Email: manriquezmiranda@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manriquezmiranda@gmail.com)
 
 ---
 
